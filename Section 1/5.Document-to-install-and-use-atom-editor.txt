@@ -1,0 +1,11 @@
+open browser
+	enter url: atom.io
+	download option --> download atom , it is a .exe
+	then double click on that, and wait some time.
+
+install "script" package on your atom.
+
+go to --> File --> settings --> install --> search with script , scirpt package --> install it
+
+
+and use ctrl+shift+b to run code
